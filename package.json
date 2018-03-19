@@ -36,5 +36,8 @@
     "rewire": "3.0.2",
     "sinon": "4.4.6",
     "xo": "0.20.3"
+  },
+  "peerDependencies": {
+    "micro": "^9.1.4"
   }
 }
