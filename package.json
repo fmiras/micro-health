@@ -15,6 +15,10 @@
     "micro-health-api",
     "health-check-api"
   ],
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "xo && nyc ava",
     "precommit": "lint-staged && ava"
