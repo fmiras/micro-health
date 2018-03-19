@@ -2,5 +2,15 @@
   "name": "micro-health",
   "version": "0.0.1",
   "description": "An extension of micro with a Health Check API",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "extends": "prettier"
+  },
+  "devDependencies": {
+    "prettier": "1.11.1",
+    "xo": "0.20.3"
+  }
 }
