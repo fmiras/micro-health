@@ -15,7 +15,7 @@
     "health-check-api"
   ],
   "scripts": {
-    "test": "xo && ava",
+    "test": "xo && nyc ava",
     "precommit": "lint-staged && ava"
   },
   "lint-staged": {
@@ -30,6 +30,7 @@
     "ava": "0.25.0",
     "husky": "0.14.3",
     "lint-staged": "7.0.0",
+    "nyc": "11.6.0",
     "prettier": "1.11.1",
     "xo": "0.20.3"
   }
