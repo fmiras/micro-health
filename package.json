@@ -1,5 +1,5 @@
 {
-  "name": "micro-health",
+  "name": "micro-health-api",
   "version": "1.0.1",
   "description": "An extension of micro with a Health Check API",
   "author": "fmiras",
