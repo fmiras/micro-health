@@ -4,3 +4,4 @@ package-lock.json
 
 # Logs
 *.logs
+.nyc_output
