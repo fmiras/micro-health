@@ -3,6 +3,13 @@
   "version": "0.0.1",
   "description": "An extension of micro with a Health Check API",
   "license": "MIT",
+  "keywords": [
+    "micro",
+    "health",
+    "microservices",
+    "micro-health",
+    "health-check-api"
+  ],
   "scripts": {
     "test": "xo",
     "precommit": "lint-staged"
