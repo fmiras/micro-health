@@ -39,7 +39,7 @@
     "nyc": "11.6.0",
     "prettier": "1.11.1",
     "rewire": "3.0.2",
-    "sinon": "4.4.6",
+    "sinon": "4.4.7",
     "xo": "0.20.3"
   },
   "peerDependencies": {
