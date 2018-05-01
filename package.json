@@ -4,15 +4,14 @@
   "description": "An extension of micro with a Health Check API",
   "author": "fmiras",
   "license": "MIT",
-  "repository": "fmiras/micro-health-api",
-  "bugs": "https://github.com/fmiras/micro-health-api/issues",
-  "homepage": "https://github.com/fmiras/micro-health-api",
+  "repository": "fmiras/micro-health",
+  "bugs": "https://github.com/fmiras/micro-health/issues",
+  "homepage": "https://github.com/fmiras/micro-health",
   "keywords": [
     "micro",
     "health",
     "microservices",
     "micro-health",
-    "micro-health-api",
     "health-check-api"
   ],
   "main": "lib/index.js",
