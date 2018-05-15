@@ -1,18 +1,17 @@
 {
-  "name": "micro-health-api",
-  "version": "1.0.4",
+  "name": "micro-health",
+  "version": "2.0.0",
   "description": "An extension of micro with a Health Check API",
   "author": "fmiras",
   "license": "MIT",
-  "repository": "fmiras/micro-health-api",
-  "bugs": "https://github.com/fmiras/micro-health-api/issues",
-  "homepage": "https://github.com/fmiras/micro-health-api",
+  "repository": "fmiras/micro-health",
+  "bugs": "https://github.com/fmiras/micro-health/issues",
+  "homepage": "https://github.com/fmiras/micro-health",
   "keywords": [
     "micro",
     "health",
     "microservices",
     "micro-health",
-    "micro-health-api",
     "health-check-api"
   ],
   "main": "lib/index.js",
@@ -35,12 +34,14 @@
     "ava": "0.25.0",
     "husky": "0.14.3",
     "lint-staged": "7.0.3",
-    "micro": "9.2.0",
     "nyc": "11.7.1",
+    "lint-staged": "7.1.0",
+    "micro": "9.2.0",
+    "nyc": "11.7.3",
     "prettier": "1.12.0",
-    "rewire": "4.0.0",
-    "sinon": "5.0.0",
-    "xo": "0.20.3"
+    "rewire": "4.0.1",
+    "sinon": "5.0.5",
+    "xo": "0.21.0"
   },
   "peerDependencies": {
     "micro": "^9.1.4"
