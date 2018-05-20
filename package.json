@@ -39,7 +39,7 @@
     "prettier": "1.12.0",
     "rewire": "4.0.1",
     "sinon": "5.0.5",
-    "xo": "0.21.0"
+    "xo": "0.21.1"
   },
   "peerDependencies": {
     "micro": "^9.1.4"
