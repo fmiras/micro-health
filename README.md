@@ -37,7 +37,7 @@ const microFn = (req, res) => {
   // Wonderful code
 }
 
-const errorChecker = () => {
+const errorChecker = async () => {
   // Check if database pool connection is full
   // Check if there is still space on filesystem
   // Check if external APIs are working
